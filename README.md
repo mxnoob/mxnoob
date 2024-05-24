@@ -1,14 +1,12 @@
 <h1 align="center" class="heading-element" dir="auto">Привет, меня зовут Кирилл! </h1>
 <h3 align="center" class="heading-element" dir="auto">
-  🚀 Бэкенд разработчик (Django).
+  Бэкенд разработчик (Django).
 </h3>
 
 <h3 align="center" class="heading-element" dir="auto">
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxnoob&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
   </a>
-</h3>
-<h3 align="center" class="heading-element" dir="auto">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=mxnoob&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
   </a>
@@ -30,5 +28,4 @@
 ![Static Badge](https://img.shields.io/badge/github-g?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/github_action-g?style=for-the-badge&logo=github%20actions&logoColor=blue&labelColor=white&color=white)
 
-## LeetCode:
 ![](https://leetcard.jacoblin.cool/noobmx?theme=light,unicorn)
