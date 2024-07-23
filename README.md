@@ -31,3 +31,5 @@
 ![Static Badge](https://img.shields.io/badge/github_action-g?style=for-the-badge&logo=github%20actions&logoColor=blue&labelColor=white&color=white)
 
 ![](https://leetcard.jacoblin.cool/noobmx?theme=light,unicorn)
+
+![](https://www.codewars.com/users/mxnoob/badges/large)
